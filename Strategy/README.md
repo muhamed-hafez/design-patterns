@@ -1,5 +1,5 @@
 Wiki reference: https://en.wikipedia.org/wiki/Strategy_pattern
-Video tutorial: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3https://en.wikipedia.org/wiki/Strategy_pattern
+Video tutorial: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3
 
 
 ## Notes
