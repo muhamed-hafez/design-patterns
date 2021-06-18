@@ -7,13 +7,6 @@ public class Bird extends Animal {
 		super();
 		
 		setSound("Tweet");
+		flyingType = new ItFlys();
 	}
-	/* No need to override fly method as the default implementation
-	 * works nicely with birds	 
-	 public void fly(){
-		
-		System.out.println("I can't fly");
-		
-	}
-	*/
 }
